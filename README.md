@@ -1,4 +1,6 @@
-# flanet - 2D Planet Simulator
+# [Feb 19th 2026] NOTE: This project is end-of-life. I stopped working on it in April 2025. I thought I would pick it up again but I'm not really interested. Therefore, sometime in the not too far future I will probably release one more update to make it somewhat stable and finished (v1.0) and then stop development entirely. \5
+
+# 5tintGravity - 2D Planet Simulator
 
 A physics-based 2D planetary simulator built with Python and Pygame. The simulator allows users to create and observe planetary motion under gravitational forces, including dynamic collisions and configurable settings.
 
